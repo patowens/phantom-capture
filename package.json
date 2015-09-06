@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "contributors": [{
+    "name" : "Pat Owens",
+    "email" : "pat.owens@outlook.com"
+  }],
   "author": "Pat Owens",
   "license": "MIT",
   "repository": {
