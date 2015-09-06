@@ -1,0 +1,14 @@
+{
+  "name": "phantom-capture",
+  "version": "0.0.1",
+  "description": "A service to generate screencaps of webpages and sections thereof.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "author": "Pat Owens",
+  "license": "MIT",
+  "dependencies": {
+    "phantom": "^0.7.2"
+  }
+}
